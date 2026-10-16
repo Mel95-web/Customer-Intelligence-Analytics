@@ -82,3 +82,5 @@ Die Ergebnisse beruhen auf dem vorliegenden Datensatz und lassen sich nicht ohne
 ## Fazit
 
 Das Projekt verbindet explorative Datenanalyse, Kundensegmentierung, Predictive Analytics, Customer Experience und Business Intelligence. Es zeigt sowohl praktische Einsatzmöglichkeiten datenbasierter Marketinganalysen als auch die Notwendigkeit, Modellgrenzen transparent zu kommunizieren.
+
+**Autorin:** Melanie Florine Noubissi Chimi
