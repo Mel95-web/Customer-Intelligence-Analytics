@@ -72,6 +72,8 @@ Erstellung von PivotTables und Diagrammen zur Darstellung von:
 - Jupyter Notebook mit Datenanalyse, Visualisierungen und Modellen
 - Excel-Arbeitsmappe mit Business-Intelligence-Auswertungen
 - README.md als Projektdokumentation
+- Excel-Customer_Behavior
+- csv-Customer_Behavior
 
 ## Einschränkungen
 
